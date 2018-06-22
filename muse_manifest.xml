@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="weiweizai.github.io" resolutions="1x" timestamp="1529647934346">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="weiweizai.github.io" resolutions="1x" timestamp="1529648309673">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4282859245" ref="index"/>
@@ -695,6 +695,6 @@
     </file>
   </folder>
   <file name="index.html" crc="112974652" seo="true" mt="1529647858060" redirect="true"/>
-  <file name="photo.html" crc="384705315" seo="true" mt="1529647706235" redirect="true"/>
+  <file name="photo.html" crc="384705315" seo="true" mt="1529648280146" redirect="true"/>
   <file name="graphic.html" crc="439600678" seo="true" mt="1529647858062" redirect="true"/>
 </manifest>

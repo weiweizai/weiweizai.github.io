@@ -1,28 +1,28 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="weiweizai.github.io" resolutions="1x" timestamp="1529647722561">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="weiweizai.github.io" resolutions="1x" timestamp="1529647934346">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4282859245" ref="index"/>
     <file name="nomq_index.css" crc="17171755" ref="index"/>
-    <file name="____1.css" crc="62049538" ref="第三页面"/>
-    <file name="nomq_____1.css" crc="3890251275" ref="第三页面"/>
+    <file name="graphic.css" crc="62049538" ref="graphic"/>
+    <file name="nomq_graphic.css" crc="3890251275" ref="graphic"/>
     <file name="photo.css" crc="415513336" ref="photo"/>
     <file name="nomq_photo.css" crc="4103714952" ref="photo"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:第三页面:photo"/>
-    <file name="museutils.js" crc="340535759" ref="index:第三页面:photo"/>
-    <file name="whatinput.js" crc="86476730" ref="index:第三页面:photo"/>
-    <file name="museconfig.js" crc="310584261" ref="index:第三页面:photo"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:第三页面:photo"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:第三页面:photo"/>
-    <file name="require.js" crc="7928878" ref="index:第三页面:photo"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photo:graphic"/>
+    <file name="museutils.js" crc="340535759" ref="index:photo:graphic"/>
+    <file name="whatinput.js" crc="86476730" ref="index:photo:graphic"/>
+    <file name="museconfig.js" crc="310584261" ref="index:photo:graphic"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:photo:graphic"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:photo:graphic"/>
+    <file name="require.js" crc="7928878" ref="index:photo:graphic"/>
   </folder>
   <folder name="images">
     <file name="wechatimg14.png" crc="4247794438" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="分组.png" crc="4090668464" seo="true" ref="index:第三页面:photo">
+    <file name="分组.png" crc="4090668464" seo="true" ref="index:photo:graphic">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -33,109 +33,84 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="home copy.png" crc="46058406" seo="true" ref="index:第三页面:photo">
+    <file name="home copy.png" crc="46058406" seo="true" ref="index:photo:graphic">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="about copy.png" crc="104877797" seo="true" ref="index:第三页面:photo">
+    <file name="about copy.png" crc="104877797" seo="true" ref="index:photo:graphic">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="work copy.png" crc="4240480406" seo="true" ref="index:第三页面:photo">
+    <file name="work copy.png" crc="4240480406" seo="true" ref="index:photo:graphic">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="contact copy.png" crc="4108736204" seo="true" ref="index:第三页面:photo">
+    <file name="contact copy.png" crc="4108736204" seo="true" ref="index:photo:graphic">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
     <file name="design better world.png" crc="4098696641" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -408,13 +383,8 @@
     <file name="5438x422.png" crc="4270359015" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:第三页面:photo"/>
+    <file name="blank.gif" crc="4208392903" ref="index:photo:graphic"/>
     <file name="第二页面.png" crc="7153901" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
@@ -422,11 +392,6 @@
       <caption webpage="photo" alt=""/>
     </file>
     <file name="photographic.png" crc="11077310" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
@@ -434,11 +399,6 @@
       <caption webpage="photo" alt=""/>
     </file>
     <file name="1.jpg" crc="453942545" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
@@ -446,29 +406,18 @@
       <caption webpage="photo" alt=""/>
     </file>
     <file name="2.jpg" crc="517209396" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="3。.jpg" crc="271076105" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="5。.jpg" crc="4215743056" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="4。.jpg" crc="3954603724" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
@@ -476,305 +425,276 @@
       <caption webpage="photo" alt=""/>
     </file>
     <file name="8.jpg" crc="3837265316" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="6.jpg" crc="3771348217" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="7.jpg" crc="40301163" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
-    <file name="二三页面底部.png" crc="348632032" seo="true" ref="第三页面:photo">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
-      <caption webpage="第二页面" alt=""/>
+    <file name="二三页面底部.png" crc="348632032" seo="true" ref="photo:graphic">
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
     <file name="2220x234.jpg" crc="4178980919" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="3。221x235.jpg" crc="3934858335" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="5。465x175.jpg" crc="122567971" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="8279x329.jpg" crc="3853283200" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="6294x159.jpg" crc="3844453133" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="7294x159.jpg" crc="3874478041" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="2183x194.jpg" crc="3893786606" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="3。184x195.jpg" crc="3811664230" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="5。386x145.jpg" crc="514209991" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="8232x274.jpg" crc="4017558110" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="6244x132.jpg" crc="3928765200" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="7244x132.jpg" crc="3871985169" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="2133x142.jpg" crc="274769067" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="3。134x142.jpg" crc="251926689" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="5。281x106.jpg" crc="97699038" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="8169x199.jpg" crc="146651965" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="6178x96.jpg" crc="4180177223" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="7178x96.jpg" crc="148691433" seo="true" ref="photo">
-      <caption webpage="第二页面" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
-    <file name="第三页面头.png" crc="3806359164" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三页面头.png" crc="3806359164" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="graphic works.png" crc="476975443" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="graphic works.png" crc="476975443" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 1.jpg" crc="391025996" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 1.jpg" crc="391025996" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="p h o t o s h o p.png" crc="479874908" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="p h o t o s h o p.png" crc="479874908" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="灯泡.jpg" crc="285641405" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="灯泡.jpg" crc="285641405" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="雨中.jpg" crc="4027639961" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="雨中.jpg" crc="4027639961" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name=" 豹驰影掣的副本.jpg" crc="3981296585" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name=" 豹驰影掣的副本.jpg" crc="3981296585" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 2.jpg" crc="232524341" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 2.jpg" crc="232524341" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="v e c t o r.png" crc="4006038691" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="v e c t o r.png" crc="4006038691" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="猫.png" crc="3851678203" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="猫.png" crc="3851678203" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="龙.jpg" crc="447960428" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="龙.jpg" crc="447960428" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="善 .jpg" crc="4269720563" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="善 .jpg" crc="4269720563" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 3.jpg" crc="365152605" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 3.jpg" crc="365152605" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="w e b p a g e.png" crc="141553592" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="w e b p a g e.png" crc="141553592" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="毕业.jpg" crc="4199834870" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="毕业.jpg" crc="4199834870" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="毕业2.jpg" crc="325238327" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="毕业2.jpg" crc="325238327" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="首页3.jpg" crc="4260356642" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
-      <caption webpage="第三页面" alt=""/>
+    <file name="首页3.jpg" crc="4260356642" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 1770x274.jpg" crc="3830411625" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 1770x274.jpg" crc="3830411625" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="灯泡178x210.jpg" crc="3761366363" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="灯泡178x210.jpg" crc="3761366363" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="雨中180x212.jpg" crc="3854873948" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="雨中180x212.jpg" crc="3854873948" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name=" 豹驰影掣的副本180x212.jpg" crc="4256764577" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name=" 豹驰影掣的副本180x212.jpg" crc="4256764577" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 2767x274.jpg" crc="3761850161" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 2767x274.jpg" crc="3761850161" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="猫181x213.png" crc="4080975437" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="猫181x213.png" crc="4080975437" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="龙178x210.jpg" crc="96735154" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="龙178x210.jpg" crc="96735154" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="善 180x211.jpg" crc="4252211988" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="善 180x211.jpg" crc="4252211988" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 3770x274.jpg" crc="3857321286" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 3770x274.jpg" crc="3857321286" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="毕业180x211.jpg" crc="4166338421" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="毕业180x211.jpg" crc="4166338421" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="毕业2181x213.jpg" crc="332265670" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="毕业2181x213.jpg" crc="332265670" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="首页3180x212.jpg" crc="393286525" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="首页3180x212.jpg" crc="393286525" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 1642x229.jpg" crc="3876475337" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 1642x229.jpg" crc="3876475337" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="灯泡149x175.jpg" crc="252830336" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="灯泡149x175.jpg" crc="252830336" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="雨中150x177.jpg" crc="237125737" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="雨中150x177.jpg" crc="237125737" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name=" 豹驰影掣的副本150x177.jpg" crc="4229004952" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name=" 豹驰影掣的副本150x177.jpg" crc="4229004952" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 2640x228.jpg" crc="21289532" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 2640x228.jpg" crc="21289532" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="猫151x177.png" crc="3861913549" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="猫151x177.png" crc="3861913549" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="龙149x175.jpg" crc="4093259166" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="龙149x175.jpg" crc="4093259166" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="善 150x176.jpg" crc="4214190653" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="善 150x176.jpg" crc="4214190653" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 3642x228.jpg" crc="180642366" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 3642x228.jpg" crc="180642366" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="毕业150x176.jpg" crc="4096954378" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="毕业150x176.jpg" crc="4096954378" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="毕业2151x178.jpg" crc="4084027360" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="毕业2151x178.jpg" crc="4084027360" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="首页3150x177.jpg" crc="3920717056" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="首页3150x177.jpg" crc="3920717056" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 1480x171.jpg" crc="260896735" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 1480x171.jpg" crc="260896735" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="灯泡111x131.jpg" crc="4127330511" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="灯泡111x131.jpg" crc="4127330511" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="雨中113x132.jpg" crc="3777965368" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="雨中113x132.jpg" crc="3777965368" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name=" 豹驰影掣的副本113x132.jpg" crc="4145880909" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name=" 豹驰影掣的副本113x132.jpg" crc="4145880909" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 2479x171.jpg" crc="33258276" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 2479x171.jpg" crc="33258276" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="猫113x133.png" crc="3938297546" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="猫113x133.png" crc="3938297546" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="龙111x131.jpg" crc="187660662" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="龙111x131.jpg" crc="187660662" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="善 112x132.jpg" crc="4268677119" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="善 112x132.jpg" crc="4268677119" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="第三 3481x171.jpg" crc="3930256071" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="第三 3481x171.jpg" crc="3930256071" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="毕业112x132.jpg" crc="446399245" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="毕业112x132.jpg" crc="446399245" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="毕业2113x133.jpg" crc="4195206129" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="毕业2113x133.jpg" crc="4195206129" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
-    <file name="首页3113x132.jpg" crc="3801633509" seo="true" ref="第三页面">
-      <caption webpage="第三页面" alt=""/>
+    <file name="首页3113x132.jpg" crc="3801633509" seo="true" ref="graphic">
+      <caption webpage="graphic" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4249526111" seo="true" mt="1529647706232" redirect="true"/>
-  <file name="第三页面.html" crc="4076545780" seo="true" mt="1529502324296" redirect="true"/>
+  <file name="index.html" crc="112974652" seo="true" mt="1529647858060" redirect="true"/>
   <file name="photo.html" crc="384705315" seo="true" mt="1529647706235" redirect="true"/>
+  <file name="graphic.html" crc="439600678" seo="true" mt="1529647858062" redirect="true"/>
 </manifest>
